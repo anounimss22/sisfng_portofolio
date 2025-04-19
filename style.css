@@ -258,3 +258,12 @@ body.dark-mode footer {
   min-width: 100%;
   transition: transform 0.5s ease;
 }
+
+/* Gaya untuk foto Siska bulat */
+.siska-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #d4bfa3;
+}
